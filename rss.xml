@@ -5,7 +5,27 @@
     <link>https://www.vozpopuli.com</link>
     <description>Todas las noticias públicas de Vozpópuli, incluidas Economía y Empresas.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 24 Oct 2026 18:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:41:53 +0000</lastBuildDate>
+    <item>
+      <title>Una protesta estudiantil provoca disturbios y caos en el centro de Barcelona</title>
+      <link>https://www.vozpopuli.com/espana/cataluna/una-protesta-estudiantil-provoca-disturbios-y-caos-en-el-centro-de-barcelona.html</link>
+      <guid isPermaLink="true">https://www.vozpopuli.com/espana/cataluna/una-protesta-estudiantil-provoca-disturbios-y-caos-en-el-centro-de-barcelona.html</guid>
+      <pubDate>Sat, 24 Oct 2026 20:45:49 +0200</pubDate>
+      <category>España</category>
+      <description>La Guardia Urbana ha cerrado los accesos a la plaza Cataluña de Barcelona y los comercios de la zona han bajado las persianas para evitar daños.</description>
+      <author>Lucas Méndez</author>
+      <enclosure url="https://cdn.vozpopuli.com/cdn/posts/4239925/efe-alberto-estevez-2899308-1200-700.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Francia vive una nueva jornada de protestas con un millar de detenidos pero menos saqueos y destrozos</title>
+      <link>https://www.vozpopuli.com/internacional/francia-registra-casi-1000-detenidos-en-una-nueva-jornada-de-manifestaciones-y-se-esperan-mas-arrestos.html</link>
+      <guid isPermaLink="true">https://www.vozpopuli.com/internacional/francia-registra-casi-1000-detenidos-en-una-nueva-jornada-de-manifestaciones-y-se-esperan-mas-arrestos.html</guid>
+      <pubDate>Sat, 24 Oct 2026 20:14:10 +0200</pubDate>
+      <category>Internacional</category>
+      <description>El Gobierno ha atribuido la menor intensidad de los altercados a la “anticipación” de las fuerzas del orden y a un despliegue “significativamente reforzado”</description>
+      <author>Lucas Méndez</author>
+      <enclosure url="https://cdn.vozpopuli.com/cdn/posts/4239924/policias-antidisturbios-calles-paris-este-sabado-2899307-1200-700.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Rufián inicia la carrera electoral arremetiendo contra el PSC: "No merece el premio del llamado voto útil"</title>
       <link>https://www.vozpopuli.com/espana/cataluna/rufian-inicia-la-carrera-electoral-arremetiendo-contra-el-psc-no-merece-el-premio-del-llamado-voto-util.html</link>
@@ -14985,26 +15005,6 @@
       <description>En cuanto el líder desaparece, su cuadrilla cae. El líder, dígase lo que se diga, es un fenómeno. Los miembros de su cuadrilla son unos aventureros</description>
       <author>Juan José López-Burniol</author>
       <enclosure url="https://cdn.vozpopuli.com/cdn/posts/4238136/imagen-segunda-guerra-mundial-2896312-1200-700.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El presidente de EFE pide a sus empleados “hacer ahora periodismo” para atacar “los bulos” del PP</title>
-      <link>https://www.vozpopuli.com/economia/empresas/el-presidente-de-efe-pide-a-sus-empleados-hacer-ahora-periodismo-para-atacar-los-bulos-del-pp.html</link>
-      <guid isPermaLink="true">https://www.vozpopuli.com/economia/empresas/el-presidente-de-efe-pide-a-sus-empleados-hacer-ahora-periodismo-para-atacar-los-bulos-del-pp.html</guid>
-      <pubDate>Thu, 08 Oct 2026 04:45:00 +0200</pubDate>
-      <category>Empresas</category>
-      <description>Miguel Ángel Oliver bajó a la redacción para pedir un esfuerzo ante las próximas elecciones</description>
-      <author>Carlos R. Cózar</author>
-      <enclosure url="https://cdn.vozpopuli.com/cdn/posts/4238134/miguel-angel-oliver-2896308-1200-700.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>El PP convence a Feijóo para hacer una campaña "sin complejos" y neutralizar "el fango" del sanchismo</title>
-      <link>https://www.vozpopuli.com/espana/politica/el-pp-convence-a-feijoo-para-hacer-una-campana-sin-complejos-y-neutralizar-el-fango-del-sanchismo.html</link>
-      <guid isPermaLink="true">https://www.vozpopuli.com/espana/politica/el-pp-convence-a-feijoo-para-hacer-una-campana-sin-complejos-y-neutralizar-el-fango-del-sanchismo.html</guid>
-      <pubDate>Thu, 08 Oct 2026 04:45:00 +0200</pubDate>
-      <category>Política</category>
-      <description>La formación ha endurecido su discurso en las últimas horas, usando las mismas armas con las que el Gobierno ha tratado a la oposición en estos tres años de legislatura</description>
-      <author>Iván Libreros</author>
-      <enclosure url="https://cdn.vozpopuli.com/cdn/posts/4238110/alberto-nunez-feijoo-junto-su-direccion-nacional-genova-2896226-1200-700.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
